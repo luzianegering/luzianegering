@@ -7,7 +7,7 @@
 <img height="180vh" width="340vh" src="https://github-readme-stats.vercel.app/api?username=luzianegering&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   <details>
-<summary> Epot Center</summary>
+<summary><b> Some Statistics Fun </b></summary>
 <div>
 <h3 align="center">Linguagens em que programo:</h3>
 </div>
