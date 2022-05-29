@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, me chamo Luziane! </h1>
-## Mas você pode me chamar de Luzi!
+<h2 align="center">Mas você pode me chamar de Luzi!</h2>
 
 <div display= "flex" flex-direction="row">
 <a href="https://github.com/luzianegering">
