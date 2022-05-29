@@ -1,5 +1,5 @@
-## Olá, me chamo Luziane! 
-### Mas você pode me chamar de Luzi 👋
+# Olá, me chamo Luziane! 
+## Mas você pode me chamar de Luzi!
 
 <div display= "flex" flex-direction="row">
 <a href="https://github.com/luzianegering">
