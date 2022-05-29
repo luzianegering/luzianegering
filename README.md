@@ -6,14 +6,14 @@
 <img height="180vh" width="340vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzianegering&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180vh" width="340vh" src="https://github-readme-stats.vercel.app/api?username=luzianegering&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<!--
-**luzianegering/luzianegering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<details>
+  <details>
 <summary> Epot Center</summary>
 <div>
 <h3 align="center">Linguagens em que programo:</h3>
 </div>
 </details>
+<!--
+**luzianegering/luzianegering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
