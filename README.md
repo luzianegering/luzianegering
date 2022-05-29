@@ -1,4 +1,4 @@
-# Olá, me chamo Luziane! 
+<h1 text-align="center"> Olá, me chamo Luziane! </h1>
 ## Mas você pode me chamar de Luzi!
 
 <div display= "flex" flex-direction="row">
