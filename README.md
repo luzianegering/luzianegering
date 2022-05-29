@@ -9,7 +9,7 @@
 <!--
 **luzianegering/luzianegering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <details>
-<summary><b> Some Statistics Fun </b></summary>
+<summary> Epot Center</summary>
 <div>
 <h3 align="center">Linguagens em que programo:</h3>
 </div>
