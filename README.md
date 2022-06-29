@@ -1,5 +1,6 @@
 <h1 align="center"> Olá, me chamo Luziane! </h1>
 <h2 align="center">Mas você pode me chamar de Luzi!</h2>
+<a href="https://www.linkedin.com/in/luziane-gering-729ba7180/" target="_blank" rel="nofollow"><img align="center" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" />
 
 <div display= "flex" align="center">
 <a href="https://github.com/luzianegering">
