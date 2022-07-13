@@ -3,6 +3,7 @@
 <div align="center" display="flex" flex-direction="row">
 <a href="https://www.linkedin.com/in/luziane-gering-729ba7180/" target="_blank" rel="nofollow"><img align="center" alt="Meu LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" />
 <a href="https://programathor.com.br/users/163164" target="_blank" rel="nofollow"><img align="center" alt="Meu Programathor" width="22px" src="https://media-exp2.licdn.com/dms/image/C4D0BAQHiTc5hjK-osA/company-logo_200_200/0/1592912867073?e=2147483647&v=beta&t=f6Kx2l1si7FluUzKv9rY46gFv4ON-GOlPeAOT4WC_tk" />
+ <a href="https://www.infojobs.com.br/candidate/cv/detail2.aspx" target="_blank" rel="nofollow"><img align="center" alt="Meu Programathor" width="22px" src="https://ncdn0.infojobs.com.br/logos/Company_Evaluation/68798.jpg" />
  </div>
 
 
