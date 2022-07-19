@@ -9,8 +9,8 @@
 
 <div display= "flex" align="center">
 <a href="https://github.com/luzianegering">
-<img height="180vh" width="340vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzianegering&layout=compact&langs_count=7&theme=synthwave ’84"/>
-<img height="180vh" width="340vh" src="https://github-readme-stats.vercel.app/api?username=luzianegering&show_icons=true&theme=synthwave ’84&include_all_commits=true&count_private=true"/>
+<img height="180vh" width="340vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzianegering&layout=compact&langs_count=7&theme=synthwave’84"/>
+<img height="180vh" width="340vh" src="https://github-readme-stats.vercel.app/api?username=luzianegering&show_icons=true&theme=synthwave’84&include_all_commits=true&count_private=true"/>
 </div>
  
 <h3 align="center">Linguagens em que programo:</h3>
